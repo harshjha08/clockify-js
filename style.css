@@ -47,10 +47,11 @@
 }
 #black{
     background: #0f0f0f;
-    
+     border: 2px solid #fff;
 }
 #purple{
     background: #5a4fcf;
+   
    
 }
 #blue{
@@ -127,3 +128,4 @@
     width: 20px;
   }
 }
+
