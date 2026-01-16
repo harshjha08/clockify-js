@@ -113,7 +113,7 @@
   }
 
   .clock {
-    font-size: 64px;
+    font-size: 60px;
     gap: 8px;
   }
 
@@ -127,3 +127,4 @@
     width: 20px;
   }
 }
+
